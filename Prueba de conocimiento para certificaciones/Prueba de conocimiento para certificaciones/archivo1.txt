@@ -1,0 +1,2 @@
+Hola, este es el contenido de archivo1.txt
+Esto es solo para practicar Python y zipfile.
